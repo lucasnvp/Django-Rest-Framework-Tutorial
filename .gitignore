@@ -6,3 +6,5 @@
 webapp/django_environments/__pycache__/
 
 webapp/snippets/migrations/__pycache__/
+
+webapp/snippets/__pycache__/
